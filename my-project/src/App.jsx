@@ -1,6 +1,6 @@
 import React from "react";
 import "./app.css";
-import image from "./assets/nice.jpeg";
+import image from "./assets/smile.png";
 import ProfileCard from "./components/profileCard";
 
 function App() {
@@ -24,14 +24,14 @@ function App() {
         <ProfileCard
           image={image}
           name="Leoncie Umutoni"
-          role="Software Developer"
+          role="Project Manager"
         />
 
         
         <ProfileCard
           image={image}
           name="Leoncie Umutoni"
-          role="Software Developer"
+          role="Planning Coordinator Assistant"
         />
 
       </div>
