@@ -1,5 +1,5 @@
 import React from "react";
-import "./app.css";
+import "./App.css";
 import image from "./assets/smile.png";
 import ProfileCard from "./components/profileCard";
 
